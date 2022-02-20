@@ -7,12 +7,29 @@ In this code two styles and two contents are presented: Styles of Pablo Picasso 
 
 ## Let's see how it works:
 
-### First of all, let's define our styles:
+### First of all, let's define our styles
 
 #### Pablo Picasso style : 
 ![alt text](https://github.com/Poludzen/Lab-12-13/blob/main/images/pablo_picasso_style.jpg?raw=true "Pablo Picasso Style")
 
 Source : https://www.tripadvisor.ru/LocationPhotoDirectLink-g190454-d244507-i114230753-Albertina-Vienna.html
+
+#### Frida Kahlo style: 
+![alt text](https://github.com/Poludzen/Lab-12-13/blob/main/images/frida_kahlo_style.jpg?raw=true "Frida Kahlo Style")
+
+Source : https://www.itsnicethat.com/news/taschen-frida-khalo-the-complete-paintings-publication-art-190721
+
+### it is worth noting that these are the works of the greatest painters! So, now let's define our contents
+
+#### Paris view content:
+![alt text](https://github.com/Poludzen/Lab-12-13/blob/main/images/paris_content.jpg?raw=true "Paris content")
+
+Source : https://paris10.ru/sites/paris10.ru/files/inline-images/eiffel-tower-2000717_1920.jpg
+
+#### Fight Club movie screenshoot content:
+![alt text](https://github.com/Poludzen/Lab-12-13/blob/main/images/fight_club_content.png?raw=true "Fight Club Content")
+
+Source : https://hu.pinterest.com/pin/478014947922432003/?amp_client_id=CLIENT_ID(_)&mweb_unauth_id=&simplified=true
 
 
 
