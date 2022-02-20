@@ -33,7 +33,7 @@ Source : https://paris10.ru/sites/paris10.ru/files/inline-images/eiffel-tower-20
 
 Source : https://hu.pinterest.com/pin/478014947922432003/?amp_client_id=CLIENT_ID(_)&mweb_unauth_id=&simplified=true
 
-### And results of transfering!!
+## And results of transfering!!
 
 #### First results: On full VGG-19 Neural Network,with Picasso style on image from Fight Club
 ##### On 1 iteration (lead time: 33 seconds)
@@ -41,4 +41,10 @@ Source : https://hu.pinterest.com/pin/478014947922432003/?amp_client_id=CLIENT_I
 ##### On 15 iterations(lead time: 6 minutes 8 seconds)
 ![alt_text](https://github.com/Poludzen/Lab-12-13/blob/main/images/neural_style_14.png?raw=true "Picasso on Fight Club 15")
 
+#### Second result: On VGG-19 without last convolutional block in architecture,with Picasso style on image from Fight Club
+##### On 1 iteration (lead time: 27 seconds)
+![alt text](https://github.com/Poludzen/Lab-12-13/blob/main/images/neural_style_changed_vgg_0.png?raw=true "Picasso on FC 1, mini VGG")
+##### On 15 iterations(lead time 5 minutes 12 seconds)
+![alt text](https://github.com/Poludzen/Lab-12-13/blob/main/images/neural_style_changed_vgg_14.png?raw=true "Picasso on FC 15, mini VGG")
+#### Conclusion: reducing the number of layers (zeroing last convolutions) leads to a loss of style transfer clarity
 
