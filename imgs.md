@@ -9,6 +9,6 @@ In this code two styles and two contents are presented: Styles of Pablo Picasso 
 
 ### First of all, let's define our styles:
 
-Pablo Picasso style:
+Pablo Picasso style\n:
 ![alt text](https://github.com/Poludzen/Lab-12-13/blob/main/images/pablo_picasso_style.jpg?raw=true "Pablo Picasso Style")
 
