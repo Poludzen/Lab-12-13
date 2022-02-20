@@ -47,4 +47,3 @@ Source : https://hu.pinterest.com/pin/478014947922432003/?amp_client_id=CLIENT_I
 ##### On 15 iterations(lead time 5 minutes 12 seconds)
 ![alt text](https://github.com/Poludzen/Lab-12-13/blob/main/images/neural_style_changed_vgg_14.png?raw=true "Picasso on FC 15, mini VGG")
 #### Conclusion: reducing the number of layers (zeroing last convolutions) leads to a loss of style transfer clarity
-
