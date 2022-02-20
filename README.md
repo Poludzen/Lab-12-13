@@ -1,6 +1,8 @@
 # LAB 12-13 - Neural Transfer Style
 This work was created based on https://keras.io/examples/generative/neural_style_transfer/
 
+Main idea of this algorithms: to transfer style from one image(style image) to another(content image) with maintaining the structure of both.
+
 In the code(ipynb document) you can see how the Neural Transfer Style algorithm works in detail: how to calculates losses, gradients, how to process images, and how to transfer styles at all. Also there are some results : with different styles and contents, with different count of layers of VGG19 neural network, with different count of iterations of transfering.
 
 In this code two styles and two contents are presented: Styles of Pablo Picasso and Frida Kahlo, contents from Fight Club movie and Paris city view.
@@ -30,5 +32,13 @@ Source : https://paris10.ru/sites/paris10.ru/files/inline-images/eiffel-tower-20
 ![alt text](https://github.com/Poludzen/Lab-12-13/blob/main/images/fight_club_content.png?raw=true "Fight Club Content")
 
 Source : https://hu.pinterest.com/pin/478014947922432003/?amp_client_id=CLIENT_ID(_)&mweb_unauth_id=&simplified=true
+
+### And results of transfering!!
+
+#### First results: On full VGG-19 Neural Network,with Picasso style on image from Fight Club
+##### On 1 iteration (lead time: 33 seconds)
+![alt text](https://github.com/Poludzen/Lab-12-13/blob/main/images/neural_style_0.png?raw=true "Picasso on Fight Club 1")
+##### On 15 iterations(lead time: 6 minutes 8 seconds)
+![alt_text](https://github.com/Poludzen/Lab-12-13/blob/main/images/neural_style_14.png?raw=true "Picasso on Fight Club 15")
 
 
