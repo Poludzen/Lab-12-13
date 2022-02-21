@@ -73,7 +73,7 @@ Source : https://www.1tv.ru/shows/vecherniy-urgant/vypuski/vecherniy-urgant-577-
 ##### On 8 iterations
 ![alt text](https://github.com/Poludzen/Lab-12-13/blob/main/images/neural_style_paris_and_pp_7.png?raw=true "Picasso on Paris 8")
 
-#### Sixth: On full VGG-19 Neural Network,with Frida Kahlo style on Interview of Ryan Reyndols with Ivan Urgant
+#### Sixth result: On full VGG-19 Neural Network,with Frida Kahlo style on Interview of Ryan Reyndols with Ivan Urgant
 ##### On 1 iteration
 ![alt text](https://github.com/Poludzen/Lab-12-13/blob/main/images/neural_style_interview_and_fc_0.png "Kahlo on interview 1")
 
